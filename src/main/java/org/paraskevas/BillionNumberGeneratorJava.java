@@ -13,7 +13,7 @@ public class BillionNumberGeneratorJava {
         Instant start = Instant.now();
 
 
-        System.out.println("Starting generation of one billion numbers...");
+        System.out.println("Starting generation of one billion numbers in Kotlin...");
 
         ExecutorService executor = Executors.newVirtualThreadPerTaskExecutor();
 
